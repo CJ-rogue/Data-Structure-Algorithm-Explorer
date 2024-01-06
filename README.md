@@ -8,7 +8,6 @@
 3. [Features](#features)
 4. [Disclaimer](#disclaimer)
 5. [License](#license)
-6. [User Interfaces](#user-interfaces)
 
 ## Introduction
 - The Data Structure & Algorithm Explorer is an educational interactive tool developed in Java using NetBeans GUI. 
@@ -43,5 +42,3 @@ This tool is developed for educational purposes and aims to provide an interacti
 
 ## License
 This project is licensed under the terms of the [Apache License 2.0](LICENSE).
-
-## User Interfaces
